@@ -4,7 +4,7 @@
 
 - 👨‍💻 &nbsp; I'm currently working at [Millionroads] in [Montpellier], France.
 - ❤️ I love nature, sports, my family and the most important... Turn code into product 😂.
-- 📚 I love learn new things, you can check my [notes] repository 🧐.
+- 📚 I love learn new things, you can check out my [notes] repository 🧐.
 - :computer: &nbsp; Keep in touch on **[twitter]** or **[linkedin]** and ask me anything on my **[issues page]**.
 
 <h2 align="left">Favorite Tech 👀</h2>

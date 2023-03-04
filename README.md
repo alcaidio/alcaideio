@@ -4,9 +4,8 @@
 
 - 👨‍💻 &nbsp; I'm currently working at [Millionroads] in [Montpellier], France.
 - ❤️ I love nature, sports, my family and the most important... Turn code into product 😂.
-- ✨ I'm passionate about the entrepreneurial culture and the digital world.
-- 📚 I like reading and tasting good wine too (Nobody's perfect). You can see my [notes] repository if you are curious 🧐
-- :computer: &nbsp; Keep in touch on **[LinkedIn]** or ask me anything on my **[issues page]**.
+- 📚 I love learn new things, you can check my [notes] repository 🧐.
+- :computer: &nbsp; Keep in touch on **[twitter]** or **[linkedin]** and ask me anything on my **[issues page]**.
 
 <h2 align="left">Favorite Tech 👀</h2>
 
@@ -161,6 +160,7 @@
 
 [millionroads]: https://www.millionroads.com/
 [issues page]: https://github.com/timothyalcaide/timothyalcaide/issues "timothyalcaide/issues"
-[linkedin]: https://www.linkedin.com/in/timothyalcaide "Timothy Alcaide LinkedIn"
+[twitter]: https://www.linkedin.com/in/timothyalcaide "My Twitter account"
+[linkedin]: https://www.linkedin.com/in/timothyalcaide "My LinkedIn"
 [montpellier]: https://www.google.com/maps/place/Montpellier/@43.6099948,3.8041295,12z "Montpellier"
 [notes]: https://github.com/timothyalcaide/learning-notes
